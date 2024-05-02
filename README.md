@@ -1,4 +1,5 @@
 # Terraform Code Generation - CLI AI 
+Terraform-assistant, leveraging the prowess of OpenAI ChatGPT, optimizes the application of Terraform HCL (HashiCorp Configuration Language) files by furnishing an intelligent and interactive assistant, thereby refining infrastructure provisioning and management through advanced language model functionalities.
 
 ## Requirements
 - Creating OpenAI Clients
